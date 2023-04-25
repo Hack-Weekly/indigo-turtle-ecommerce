@@ -1,3 +1,10 @@
+import React from "react";
+import "../styles.css"
+
 export default function HomePage(): JSX.Element {
-  return <div>HomePage</div>;
+  return (
+  <span className="HomeTitle">Indigo E-Commerce</span>
+
+
+  )
 }
