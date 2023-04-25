@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.Home-nav{
+    display: flex;
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+.Home-img{
+    display: flex;
+}
+
+.Home-title{
+    color: red;
+    font-size: 30px;
+    display: flex;
+    position: absolute;
+    left: 45%;
+  
+}
+
+.Home-btn-signUp{
+    display: flex;
+    background-color: aquamarine;
+}
